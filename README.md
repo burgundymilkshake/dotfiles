@@ -32,6 +32,8 @@ existing file into the repo (then review with `git diff`).
 | `git`   | `.gitconfig`, `.gitignore` |
 | `fzf`   | `.fzf.zsh`, `.fzf.bash` |
 | `mcp`   | `.mcp.json` |
+| `nvim`  | `.config/nvim/` (init.lua, lazy.nvim plugins, lua modules) |
+| `tmux`  | `.config/tmux/tmux.conf` |
 
 ## Adding a new dotfile
 
