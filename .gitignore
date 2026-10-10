@@ -1,0 +1,7 @@
+# Guard against accidentally committing secrets
+*.pem
+*.key
+*credentials*
+.env
+.npmrc
+*_history
